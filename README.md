@@ -9,3 +9,8 @@ Photocell is a sensor which can detect lights. Photocell is a kind of resistor c
 FSR can detect physical pressure, squeezing and weight. It is basically a kind of resistor that the resistive value is changed by how much it is pressed. But it is rarely accurate. So it is not a good choice to use it to detect exact pressure. 
 ## Tilt Sensor
 Tilt sensor allow you to detect orientation or inclination. It is made by a cavity and a conductive free mass inside, which is slideable. The resistive value is determined by the position of the mass, and it is why the tilt sensor can detect the orientation.
+
+##Concept
+The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped.
+##Programm
+The force sensor (conductive paint) detects the change of force, and the speaker works.
