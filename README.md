@@ -16,4 +16,4 @@ The touch board is a platform to tap different objects. The speaker will play a 
 ## Programm
 The force sensor (conductive paint) detects the change of force, and the speaker works.
 ## sketch
-![image]https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/IMG_2919.PNG
+![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/IMG_2919.PNG)
