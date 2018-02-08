@@ -11,7 +11,7 @@ Tilt sensor allow you to detect orientation or inclination. It is made by a cavi
 
 # Week 3
 ## Concept
-The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped. The objects and their sounds are various.
+The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped or hands is closed to it. The objects and their sounds are various. 
 ## Programm
 The force sensor (conductive paint) detects the change of force, and the speaker works.
 ## Sketch
