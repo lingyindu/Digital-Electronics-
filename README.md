@@ -1,5 +1,6 @@
 # Digital Electronics Spring 2018
 
+# Week 2
 ## The Inebriator
 The Inebriator is a machine for automatic bartending.The console runs on a .NETMF Fez Panda II, storing all information of cocktail. When the console starts to work, a glass slides on the rails automatically and accurately. There are several bottles of cocktail on the top of the machine. The glass moves to the bottom of the specific bottles, and the cocktail goes down to the glass. And then, a glass of cocktail is finished. 
 URL:http://www.theinebriator.com/
@@ -12,8 +13,11 @@ Tilt sensor allow you to detect orientation or inclination. It is made by a cavi
 
 # Week 3
 ## Concept
-The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped.
+The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped. The objects and their sounds are various.
 ## Programm
 The force sensor (conductive paint) detects the change of force, and the speaker works.
-## sketch
+## Sketch
 ![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/IMG_2919.PNG)
+Reference
+![image](https://img.newatlas.com/bareconductive-10.JPG?auto=format%2Ccompress&fit=max&h=670&q=60&w=1000&s=fd21321ec58ab1d28ee5f75a1c74788f)
+
