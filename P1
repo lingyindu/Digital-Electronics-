@@ -1,4 +1,4 @@
-Overall concept
+##Overall concept
 The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped.
-Programm
+##Programm
 The force sensor (conductive paint) detects the change of force, and the speaker works.
