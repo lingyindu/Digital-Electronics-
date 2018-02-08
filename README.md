@@ -10,7 +10,7 @@ FSR can detect physical pressure, squeezing and weight. It is basically a kind o
 ## Tilt Sensor
 Tilt sensor allow you to detect orientation or inclination. It is made by a cavity and a conductive free mass inside, which is slideable. The resistive value is determined by the position of the mass, and it is why the tilt sensor can detect the orientation.
 
-##Concept
+## Concept
 The touch board is a platform to tap different objects. The speaker will play a sound of one object, when the object is tapped.
-##Programm
+## Programm
 The force sensor (conductive paint) detects the change of force, and the speaker works.
