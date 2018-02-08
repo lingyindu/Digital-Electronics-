@@ -17,5 +17,5 @@ The force sensor (conductive paint) detects the change of force, and the speaker
 ## Sketch
 ![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/IMG_2919.PNG)
 Reference
-![image](https://img.newatlas.com/bareconductive-10.JPG?auto=format%2Ccompress&fit=max&h=670&q=60&w=1000&s=fd21321ec58ab1d28ee5f75a1c74788f)
+![image](https://s-media-cache-ak0.pinimg.com/originals/df/05/6a/df056a1806dfaf9e59a67cc3f3a3a75f.jpg)
 
