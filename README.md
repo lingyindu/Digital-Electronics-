@@ -32,13 +32,13 @@ video of your working project (upload to YouTube and post a link)
 #define speaker 11
 
 // Set the Send Pin & Receive Pin.
-CapacitiveSensor   cs_2_3 = CapacitiveSensor(2,3);        // 10M resistor between pins 4 & 2, pin 2 is sensor pin, add a wire and or foil if desired
-CapacitiveSensor   cs_2_4 = CapacitiveSensor(2,4);        // 10M resistor between pins 4 & 6, pin 6 is sensor pin, add a wire and or foil
-CapacitiveSensor   cs_2_5 = CapacitiveSensor(2,5);        // 10M resistor between pins 4 & 8, pin 8 is sensor pin, add a wire and or foil
-CapacitiveSensor   cs_2_6 = CapacitiveSensor(2,6);        // 10M resistor between pins 4 & 8, pin 8 is sensor pin, add a wire and or foil
-CapacitiveSensor   cs_2_7 = CapacitiveSensor(2,7);        // 10M resistor between pins 4 & 8, pin 8 is sensor pin, add a wire and or foil
-CapacitiveSensor   cs_2_8 = CapacitiveSensor(2,8);        // 10M resistor between pins 4 & 8, pin 8 is sensor pin, add a wire and or foil
-CapacitiveSensor   cs_2_9 = CapacitiveSensor(2,9);        // 10M resistor between pins 4 & 8, pin 8 is sensor pin, add a wire and or foil
+CapacitiveSensor   cs_2_3 = CapacitiveSensor(2,3);       
+CapacitiveSensor   cs_2_4 = CapacitiveSensor(2,4);        
+CapacitiveSensor   cs_2_5 = CapacitiveSensor(2,5);        
+CapacitiveSensor   cs_2_6 = CapacitiveSensor(2,6);        
+CapacitiveSensor   cs_2_7 = CapacitiveSensor(2,7);        
+CapacitiveSensor   cs_2_8 = CapacitiveSensor(2,8);        
+CapacitiveSensor   cs_2_9 = CapacitiveSensor(2,9);        
 CapacitiveSensor   cs_2_10 = CapacitiveSensor(2,10);  
 
 
@@ -70,21 +70,20 @@ void loop()
 //  Serial.print(millis() - start);        // check on performance in milliseconds
 //  Serial.print("\t");                    // tab character for debug windown spacing
 
-  Serial.print(total1);                  // print sensor output 1
-  Serial.print("\t");                    // Leave some space before print the next output
-  Serial.print(total2);                  // print sensor output 2
-  Serial.print("\t");                    // Leave some space before print the next output
-  Serial.print(total3);                  // print sensor output 3
-  Serial.print("\t");                    // Leave some space before print the next output
-  Serial.print(total4);                  // print sensor output 4
-  Serial.print("\t");                    // Leave some space before print the next output
-  Serial.print(total5);                  // print sensor output 5
-  Serial.print("\t");                    // Leave some space before print the next output
-  Serial.print(total6);                  // print sensor output 6
-  Serial.print("\t");                    // Leave some space before print the next output
+  Serial.print(total1);                  
+  Serial.print("\t");                    
+  Serial.print("\t");                    
+  Serial.print(total3);                  
+  Serial.print("\t");                    
+  Serial.print(total4);                  
+  Serial.print("\t");                   
+  Serial.print(total5);                  
+  Serial.print("\t");                    
+  Serial.print(total6);                  
+  Serial.print("\t");                    
   Serial.println(total7);  
   Serial.print("\t");  
-  Serial.println(total8);                // print sensor output 7
+  Serial.println(total8);                
                                          // "println" - "ln" represent as "line", system will jump to next line after print the output.                                       // "println" - "ln" represent as "line", system will jump to next line after print the output.
                                          
   
