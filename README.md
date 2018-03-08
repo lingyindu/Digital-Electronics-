@@ -27,7 +27,7 @@ Reference
 
 picture of the first iteration
 video of your working project (upload to YouTube and post a link)
-## code 
+## Code 
 // Name the pin as led. 
 #define speaker 11
 
@@ -111,9 +111,8 @@ void loop()
 
 
 
-schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or Fritzing
-Write a concept proposal for your final project
-Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
-OR
-a new project, substantially more complex than the exercises you've done so far.
+## Schematic 
+![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/1.PNG)
+## Concept proposal for my final project
+Based on initial work, turn the voice into piano sounds and add some visual things by processing. Try to adjust volume and switch the sounds into different instruments, such as violin, flute, etc.
 
