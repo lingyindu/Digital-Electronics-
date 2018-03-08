@@ -112,7 +112,7 @@ void loop()
 
 
 ## Schematic 
-![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/1.PNG)
+![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/1.png)
 ## Concept proposal for my final project
 Based on initial work, turn the voice into piano sounds and add some visual things by processing. Try to adjust volume and switch the sounds into different instruments, such as violin, flute, etc.
 
