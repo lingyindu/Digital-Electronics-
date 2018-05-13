@@ -51,6 +51,6 @@ Piano keyboard<br>
 ## Pictures
 ![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/piano-1.jpg)
 ![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/piano-2.jpg)
-![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/piano-3.jpg)
+![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/piano-3.JPG)
 
 
