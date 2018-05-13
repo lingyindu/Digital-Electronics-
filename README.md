@@ -53,4 +53,6 @@ Piano keyboard<br>
 ![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/piano-2.jpg)
 ![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/piano-3.JPG)
 
+## Video & Code
+Video and code are in the repo.
 
