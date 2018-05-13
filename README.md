@@ -117,4 +117,21 @@ Based on initial work, turn the voice into piano sounds and add some visual thin
 
 # Final document
 
+## The goal of project
+To make a different experience with playing piano. There is no traditional piano keys on the board. People play piano with touching rather than squeezing. Besides, users get interesting feedback when playing piano in order to make it fun to do.
+Bouncing balls on the screen motivate people to engage in this experience.
+
+## How achieves that goal
+Use capacitive sensor as a touch point. If the sensor is touched, arduino will print a letter as a serial number. Then send serial number to processing.
+
+## Accurate schematic
+![image](https://github.com/lingyindu/Digital-Electronics-/blob/master/pic/schematic.png)
+
+## Parts of list
+Processing (talk with Arduino)
+Capacitive sensors
+Conductive paint
+Piano keyboard
+
+
 
